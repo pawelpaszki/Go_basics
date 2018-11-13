@@ -1,1 +1,1 @@
-## Learning Go course content on Lynda.com
+## Learning Go course content (Lynda.com)
